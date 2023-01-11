@@ -1,0 +1,41 @@
+body
+  // background-image: url(../assets/imgs/wave.svg)
+  background-color: #1b1b1b  !important
+  background-size: cover
+  background-repeat: no-repeat
+.title
+  box-shadow: 10px 1px 100px #ebeced
+  
+.tarjeta-album
+  margin-bottom: 6rem
+  line-height: 15px
+  img   
+    width: 100%
+    margin: 0 auto
+    display: flex
+    margin-bottom: 2rem
+    // box-shadow: 1px 1px 30px gray
+    transition: transform .4s 
+  &:hover
+    img
+      transform: scale(1.01)
+.social-icon
+  width: 20px 
+  height: 20px
+  margin: 0 10px
+.portada 
+  flex-direction: column
+  display: flex
+  justify-content: center
+  align-items: center
+  margin-top: 5rem
+  height: 60vh
+  animation: fade 4s 
+@keyframes fade
+  0%
+    opacity: 0
+  100% 
+    opacity: 1
+
+
+    
