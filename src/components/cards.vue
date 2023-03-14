@@ -16,49 +16,49 @@ export default {
     return {
       items: [
         {
-          imagen: "./src/assets/imgs/img3.jpg",
+          imagen: "imagenes/img3.jpg",
           name: "Si te vas",
           artist: "Josele",
           rol: "Piano y produccion",
         },
         {
-          imagen: "./src/assets/imgs/img5.jpg",
+          imagen: "imagenes/img5.jpg",
           name: "Somos y nos tenemos",
           artist: "El Rila",
           rol: "Piano y co-produccion",
         },
         {
-          imagen: "./src/assets/imgs/img4.png",
+          imagen: "imagenes/img4.png",
           name: "Adictivo",
           artist: "Bienmeli",
           rol: "Piano y co-produccion",
         },
         {
-          imagen: "./src/assets/imgs/img6.jpg",
+          imagen: "imagenes/img6.jpg",
           name: "So High",
           artist: "Garca",
           rol: "Piano y produccion",
         },
         {
-          imagen: "./src/assets/imgs/img2.jpg",
+          imagen: "imagenes/img2.jpg",
           name: "Girl",
           artist: "El Rila ft El Ruido",
           rol: "Piano y produccion",
         },
         {
-          imagen: "./src/assets/imgs/forero.jpg",
+          imagen: "imagenes/forero.jpg",
           name: "Raices de un corazón",
           artist: "Andres forero",
           rol: "Piano",
         },
         {
-          imagen: "./src/assets/imgs/kuisi.jpg",
+          imagen: "imagenes/kuisi.jpg",
           name: "Tradicion Viva",
           artist: "Kuisitambo",
           rol: "Piano",
         },
         {
-          imagen: "./src/assets/imgs/img1.jpg",
+          imagen: "imagenes/img1.jpg",
           name: "Entre montaña y cemento",
           artist: "Ricardo Andres",
           rol: "Piano",

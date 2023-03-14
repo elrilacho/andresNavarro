@@ -3,11 +3,11 @@
   .nav-bar.p-3
     .row.justify-content-between
       .col-lg-1.col-3
-        img(src="../assets/imgs/logo2.svg" alt="" )
+        img(src="@/assets/imgs/logo2.svg" alt="" )
       .col-1
         .d-flex.justify-content-center.align-items-center
           a(href="https://www.instagram.com/andresnavrro/" target="_blank")
-            img.social-icon(src="../assets/imgs/instagram.svg" alt="")
+            img.social-icon(src="@/assets/imgs/instagram.svg" alt="")
 </template>
 
 <script>
